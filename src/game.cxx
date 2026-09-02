@@ -1,3 +1,11 @@
+//*
+//* linux roblox with no syscall emulation running full pc shaders on vulkan   multiinstance 100% sunc whatever u want
+//*
+
+
+// it's an inside joke dont ruin me please
+
+
 #include "game.hxx"
 
 #include "cfg.hxx"

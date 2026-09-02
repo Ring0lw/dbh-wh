@@ -1,0 +1,4 @@
+obj/
+*.so
+.cache/
+out/

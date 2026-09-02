@@ -1,0 +1,6 @@
+-std=c++26
+-Isrc
+-Iimgui
+-Iimgui/backends
+-DVK_NO_PROTOTYPES
+-DIMGUI_IMPL_VULKAN_NO_PROTOTYPES
